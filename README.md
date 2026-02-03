@@ -3,6 +3,7 @@
 **Forecastify** is a sleek, responsive weather application built with **React** and **Tailwind CSS**. It provides real-time weather updates including temperature, humidity, and wind speed for any city worldwide using the OpenWeatherMap API.
 
 ---
+
 ## 🔗 Try it Live
 Check out the live website here: **https://forecastify-weatherapp.vercel.app/**
 
@@ -38,6 +39,11 @@ The application is structured into modular components for high maintainability:
 | `Search` | A functional search bar that handles input validation and capitalizes the city name before searching. |
 | `WeatherDisplay` | Displays the primary weather information including icons, temperature, condition, and city name. |
 | `WeatherData` | Displays secondary weather metrics such as Humidity and Wind Speed. |
+
+---
+## Demo Video
+
+https://github.com/user-attachments/assets/4abc8d3d-29cc-4f1c-a2da-42e71e4a4c20
 
 ---
 
